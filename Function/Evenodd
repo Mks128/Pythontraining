@@ -1,0 +1,9 @@
+def check_even():
+    num = int(input("Enter a number: "))
+    if num % 2 == 0:
+        return "Even"
+    else:
+        return "Odd"        
+    
+result = check_even()
+print(result)
