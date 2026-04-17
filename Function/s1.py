@@ -1,0 +1,9 @@
+def greet(name):
+    return f"Hello, {name}!: Welcome to the world of Python functions."    
+   
+  
+
+message = greet("Alice")
+print(message)
+
+
