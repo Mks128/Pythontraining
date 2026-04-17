@@ -1,0 +1,8 @@
+import sys
+system_version = sys.version
+print(f"System version: {system_version}")
+
+
+import sys
+system_command_line_args = sys.argv
+print(f"Command line arguments: {system_command_line_args}")
