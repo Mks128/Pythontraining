@@ -1,4 +1,4 @@
 def square(n):
     return n * n
 result = square(98)
-print(result)
+print(f"The square is: {result}")
