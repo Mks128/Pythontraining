@@ -1,0 +1,10 @@
+import _datetime
+current_date = _datetime.datetime.now()
+print(f"Current date and time: {current_date}")
+
+
+
+string = "HI Manoj what's going on"
+y = string.upper()
+print(f"Uppercase string: {y}")
+
